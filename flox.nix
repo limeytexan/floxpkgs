@@ -19,11 +19,4 @@
         }
       )
     ];
-  passthru.catalog =
-    lib.foldl
-    lib.recursiveUpdate
-    {}
-    (map (flake: flake.catalog) [
-      inputs.floxpkgs
-    ]);
 }
