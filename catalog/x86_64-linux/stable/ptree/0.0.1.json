@@ -13,6 +13,13 @@
     ],
     "url": null
   },
+  "cache": [
+    {
+      "cacheUrl": "https://cache.nixos.org",
+      "state": "miss",
+      "narinfo": []
+    }
+  ],
   "eval": {
     "attrPath": [
       "x86_64-linux",
