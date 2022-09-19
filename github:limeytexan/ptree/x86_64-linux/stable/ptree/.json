@@ -1,16 +1,18 @@
 {
+  "build": {},
   "element": {
-    "storePaths": [
-      "/nix/store/c8v6gbvlx73pcnhgra87xiwzy8czlfm1-ptree"
-    ],
+    "active": true,
     "attrPath": [
       "x86_64-linux",
       "stable",
       "ptree"
     ],
-    "active": true
+    "originalUrl": null,
+    "storePaths": [
+      "/nix/store/c8v6gbvlx73pcnhgra87xiwzy8czlfm1-ptree"
+    ],
+    "url": null
   },
-  "cache": [],
   "eval": {
     "attrPath": [
       "x86_64-linux",
@@ -54,6 +56,5 @@
       "type": "git",
       "url": "file:///home/brantley/src/ptree"
     }
-  },
-  "build": {}
+  }
 }
