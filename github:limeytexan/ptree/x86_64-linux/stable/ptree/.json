@@ -3,20 +3,14 @@
     "storePaths": [
       "/nix/store/c8v6gbvlx73pcnhgra87xiwzy8czlfm1-ptree"
     ],
-    "active": true,
     "attrPath": [
       "x86_64-linux",
       "stable",
       "ptree"
-    ]
+    ],
+    "active": true
   },
-  "cache": [
-    {
-      "cacheUrl": "https://cache.nixos.org",
-      "state": "miss",
-      "narinfo": []
-    }
-  ],
+  "cache": [],
   "eval": {
     "attrPath": [
       "x86_64-linux",
