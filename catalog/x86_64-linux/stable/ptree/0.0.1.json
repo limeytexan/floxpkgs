@@ -31,7 +31,7 @@
       "available": true,
       "broken": false,
       "insecure": false,
-      "name": "ptree",
+      "name": "ptree-0.0.1",
       "outputsToInstall": [
         "out"
       ],
@@ -39,7 +39,7 @@
       "unfree": false,
       "unsupported": false
     },
-    "name": "ptree",
+    "name": "ptree-0.0.1",
     "outputs": {
       "out": "/nix/store/c8v6gbvlx73pcnhgra87xiwzy8czlfm1-ptree"
     },
