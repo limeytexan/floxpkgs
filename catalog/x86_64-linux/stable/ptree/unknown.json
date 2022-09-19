@@ -11,7 +11,7 @@
     ],
     "originalUrl": null,
     "storePaths": [
-      "/nix/store/i552cddnrv730jzhfgj3yk9hmhjcka7m-ptree"
+      "/nix/store/xqyjfaaxx938cq7w6bw87m8lxw6v6gir-ptree"
     ],
     "url": null
   },
@@ -20,7 +20,7 @@
       "x86_64-linux",
       "ptree"
     ],
-    "drvPath": "/nix/store/fr8709gqn2r3kdhyss11fcbkyn798gfv-ptree.drv",
+    "drvPath": "/nix/store/4n0rhvj57yn3v98ck387jb5mqfqxjql8-ptree.drv",
     "meta": {
       "available": true,
       "broken": false,
@@ -29,7 +29,7 @@
       "outputsToInstall": [
         "out"
       ],
-      "position": "/nix/store/ain70rhw9nyyl7iv5hgs4813xx68hp2s-source/pkgs/ptree/default.nix:5",
+      "position": "/nix/store/0b7qpjn5kf8mcn16ibwahzgywsv7iiks-source/pkgs/ptree/default.nix:5",
       "unfree": false,
       "unsupported": false
     },
@@ -38,7 +38,7 @@
       "ptree"
     ],
     "outputs": {
-      "out": "/nix/store/i552cddnrv730jzhfgj3yk9hmhjcka7m-ptree"
+      "out": "/nix/store/xqyjfaaxx938cq7w6bw87m8lxw6v6gir-ptree"
     },
     "pname": "ptree",
     "system": "x86_64-linux",
@@ -48,7 +48,7 @@
   "source": {
     "locked": {
       "lastModified": 1604564492,
-      "narHash": "sha256-5IMf+ZrdwZ+I+fldsP1Obh/38e/Vau1lAhmY1W3+RWw=",
+      "narHash": "sha256-cLgDB/hMNtGJAlVdXPrBqPO4GJovHbJ95oGWI+ljHAw=",
       "type": "git",
       "url": "file:///home/brantley/src/ptree"
     },
