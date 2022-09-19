@@ -13,8 +13,8 @@
   # DO NOT EDIT
   config.extraPlugins = [
       (
-        inputs.flox-extras.plugins.allCatalogs {
-          catalogsDirectory = self.outPath + "/catalog";
+        inputs.flox-extras.plugins.catalog {
+          catalogDirectory = self.outPath + "/catalog";
           path = [self.__reflect.finalFlake.config.owner];
         }
       )
