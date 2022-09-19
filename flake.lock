@@ -211,16 +211,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1663084631,
-        "narHash": "sha256-YJekDn8not3lCQjJOeH3PX3euNvQSHA+fo3X/MafVvU=",
+        "lastModified": 1663337976,
+        "narHash": "sha256-VTXHTgr7Y48PuGxT0/Wu5ajYGTA8BEUVQtYDthcW4qw=",
         "owner": "flox",
         "repo": "flox-extras",
-        "rev": "fe90e60d21813600c101490e3c0e027ea83ca3ce",
+        "rev": "00dcdf63d03c4cbc2ddb6bed29972fd1e9a4bc54",
         "type": "github"
       },
       "original": {
         "owner": "flox",
-        "ref": "feature/allCatalogs",
+        "ref": "feature/infer-system",
         "repo": "flox-extras",
         "type": "github"
       }

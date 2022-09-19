@@ -15,7 +15,6 @@
       (
         inputs.flox-extras.plugins.catalog {
           catalogDirectory = self.outPath + "/catalog";
-          path = [self.__reflect.finalFlake.config.owner];
         }
       )
     ];
