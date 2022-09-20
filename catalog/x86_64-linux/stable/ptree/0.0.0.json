@@ -1,0 +1,61 @@
+{
+  "build": {},
+  "element": {
+    "active": true,
+    "attrPath": [
+      "x86_64-linux",
+      "ptree"
+    ],
+    "originalUrl": null,
+    "storePaths": [
+      "/nix/store/0igfcj8m3na146wgvxmhmidaa32xrfig-ptree-0.0.0"
+    ],
+    "url": null
+  },
+  "eval": {
+    "attrPath": [
+      "x86_64-linux",
+      "ptree"
+    ],
+    "drvPath": "/nix/store/62whc3n7vmj8ibvxzzj5bywqh1acgq0q-ptree-0.0.0.drv",
+    "meta": {
+      "available": true,
+      "broken": false,
+      "insecure": false,
+      "name": "ptree-0.0.0",
+      "outputsToInstall": [
+        "out"
+      ],
+      "position": "/nix/store/yp3bd7z44sxfp5wkyf8g91k5rbsxj6hy-source/pkgs/ptree/default.nix:6",
+      "unfree": false,
+      "unsupported": false
+    },
+    "name": "ptree-0.0.0",
+    "namespace": [
+      "ptree"
+    ],
+    "outputs": {
+      "out": "/nix/store/0igfcj8m3na146wgvxmhmidaa32xrfig-ptree-0.0.0"
+    },
+    "pname": "ptree",
+    "system": "x86_64-linux",
+    "version": "0.0.0",
+    "stability": "stable"
+  },
+  "source": {
+    "locked": {
+      "lastModified": 1604564492,
+      "narHash": "sha256-zy18VnxtudiHXEs4alvek3YM8uKp1CAIML6PbOssDdE=",
+      "type": "git",
+      "url": "file:///home/brantley/src/ptree"
+    },
+    "original": {
+      "type": "git",
+      "url": "file:///home/brantley/src/ptree"
+    },
+    "remote": {
+      "type": "git",
+      "url": "file:///home/brantley/src/ptree"
+    }
+  }
+}
