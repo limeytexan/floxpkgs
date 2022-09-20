@@ -3,11 +3,11 @@
     "storePaths": [
       "/nix/store/546bjldnll98dxl4wqi55aqdrddzc0xw-ptree-0.0.0"
     ],
-    "active": true,
     "attrPath": [
       "x86_64-linux",
       "ptree"
-    ]
+    ],
+    "active": true
   },
   "cache": [
     {
@@ -18,20 +18,21 @@
           "valid": true,
           "path": "/nix/store/546bjldnll98dxl4wqi55aqdrddzc0xw-ptree-0.0.0",
           "url": "nar/0m0j7lr9wlvlsa5ifnz1ik9a0hl0j0x34jqrqy7b0vjvx84q4rjh.nar.xz",
-          "downloadHash": "sha256-UGaCCepbbrCOxxlLMjqQgEKg0ozhWxeL0nRTnjI9ElQ=",
+          "narHash": "sha256-EmH6Bhq8VFMKJGcyI+qKmeTX2tjEHAaTTbABk+JTtk4=",
+          "narSize": 1256,
           "references": [
             "/nix/store/22jbij8i5plkczpgxhscnf79hvbdrqjz-psmisc-23.5",
             "/nix/store/3j918i1nbwhby0y38bn2r438rjhh8f4d-bash-5.1-p16",
             "/nix/store/546bjldnll98dxl4wqi55aqdrddzc0xw-ptree-0.0.0"
           ],
-          "narHash": "sha256-EmH6Bhq8VFMKJGcyI+qKmeTX2tjEHAaTTbABk+JTtk4=",
+          "deriver": "/nix/store/1j6m89zc7jjsnx83lk21b7j4669sna7y-ptree-0.0.0.drv",
           "downloadSize": 488,
-          "narSize": 1256,
-          "deriver": "/nix/store/1j6m89zc7jjsnx83lk21b7j4669sna7y-ptree-0.0.0.drv"
+          "downloadHash": "sha256-UGaCCepbbrCOxxlLMjqQgEKg0ozhWxeL0nRTnjI9ElQ="
         }
       ]
     }
   ],
+  "build": {},
   "eval": {
     "attrPath": [
       "x86_64-linux",
@@ -62,7 +63,6 @@
     "version": "0.0.0",
     "stability": "stable"
   },
-  "build": {},
   "source": {
     "locked": {
       "lastModified": 1663698361,
