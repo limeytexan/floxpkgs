@@ -1,0 +1,61 @@
+{
+  "build": {},
+  "element": {
+    "active": true,
+    "attrPath": [
+      "x86_64-linux",
+      "ptree-rondemo"
+    ],
+    "originalUrl": null,
+    "storePaths": [
+      "/nix/store/nrdafsy0ykqbkhgkp91igv5v826hmv81-ptree-rondemo-0.0.0"
+    ],
+    "url": null
+  },
+  "eval": {
+    "attrPath": [
+      "x86_64-linux",
+      "ptree-rondemo"
+    ],
+    "drvPath": "/nix/store/4z4m71a31fm13vigs1p9183q1mgzp1jk-ptree-rondemo-0.0.0.drv",
+    "meta": {
+      "available": true,
+      "broken": false,
+      "insecure": false,
+      "name": "ptree-rondemo-0.0.0",
+      "outputsToInstall": [
+        "out"
+      ],
+      "position": "/nix/store/5s5a0pmxfai35c0sd5mzy3k52c8mgccd-source/pkgs/ptree-rondemo/default.nix:6",
+      "unfree": false,
+      "unsupported": false
+    },
+    "name": "ptree-rondemo-0.0.0",
+    "namespace": [
+      "ptree-rondemo"
+    ],
+    "outputs": {
+      "out": "/nix/store/nrdafsy0ykqbkhgkp91igv5v826hmv81-ptree-rondemo-0.0.0"
+    },
+    "pname": "ptree-rondemo",
+    "system": "x86_64-linux",
+    "version": "0.0.0",
+    "stability": "stable"
+  },
+  "source": {
+    "locked": {
+      "lastModified": 1604564492,
+      "narHash": "sha256-nD7KBj8WcU3YvgAkaKEglMfAg0rz2otC1NE5dvnGPpw=",
+      "type": "git",
+      "url": "file:///home/brantley/src/ptree"
+    },
+    "original": {
+      "type": "git",
+      "url": "file:///home/brantley/src/ptree"
+    },
+    "remote": {
+      "type": "git",
+      "url": "file:///home/brantley/src/ptree"
+    }
+  }
+}
