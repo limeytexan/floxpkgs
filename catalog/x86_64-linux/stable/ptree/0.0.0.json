@@ -1,44 +1,23 @@
 {
+  "build": {},
   "element": {
-    "storePaths": [
-      "/nix/store/546bjldnll98dxl4wqi55aqdrddzc0xw-ptree-0.0.0"
-    ],
     "active": true,
     "attrPath": [
       "x86_64-linux",
       "ptree"
-    ]
+    ],
+    "originalUrl": null,
+    "storePaths": [
+      "/nix/store/lld8n0v55wgwfdnf3ks24ax0dk08ram3-ptree-0.0.0"
+    ],
+    "url": null
   },
-  "cache": [
-    {
-      "cacheUrl": "s3://flox-store",
-      "state": "hit",
-      "narinfo": [
-        {
-          "valid": true,
-          "path": "/nix/store/546bjldnll98dxl4wqi55aqdrddzc0xw-ptree-0.0.0",
-          "references": [
-            "/nix/store/22jbij8i5plkczpgxhscnf79hvbdrqjz-psmisc-23.5",
-            "/nix/store/3j918i1nbwhby0y38bn2r438rjhh8f4d-bash-5.1-p16",
-            "/nix/store/546bjldnll98dxl4wqi55aqdrddzc0xw-ptree-0.0.0"
-          ],
-          "downloadSize": 488,
-          "deriver": "/nix/store/1j6m89zc7jjsnx83lk21b7j4669sna7y-ptree-0.0.0.drv",
-          "narSize": 1256,
-          "url": "nar/0m0j7lr9wlvlsa5ifnz1ik9a0hl0j0x34jqrqy7b0vjvx84q4rjh.nar.xz",
-          "narHash": "sha256-EmH6Bhq8VFMKJGcyI+qKmeTX2tjEHAaTTbABk+JTtk4=",
-          "downloadHash": "sha256-UGaCCepbbrCOxxlLMjqQgEKg0ozhWxeL0nRTnjI9ElQ="
-        }
-      ]
-    }
-  ],
-  "build": {},
   "eval": {
     "attrPath": [
       "x86_64-linux",
       "ptree"
     ],
-    "drvPath": "/nix/store/1j6m89zc7jjsnx83lk21b7j4669sna7y-ptree-0.0.0.drv",
+    "drvPath": "/nix/store/06bj4a9ad7rmq79kjsk0ja8jmxjcif50-ptree-0.0.0.drv",
     "meta": {
       "available": true,
       "broken": false,
@@ -47,7 +26,7 @@
       "outputsToInstall": [
         "out"
       ],
-      "position": "/nix/store/a310sxi28z2vsigcqqc8zlkgrbp3498c-source/pkgs/ptree/default.nix:5",
+      "position": "/nix/store/drhr33slsiqyc7v4a4i1gp7bvb72cc6h-source/pkgs/ptree/default.nix:5",
       "unfree": false,
       "unsupported": false
     },
@@ -56,7 +35,7 @@
       "ptree"
     ],
     "outputs": {
-      "out": "/nix/store/546bjldnll98dxl4wqi55aqdrddzc0xw-ptree-0.0.0"
+      "out": "/nix/store/lld8n0v55wgwfdnf3ks24ax0dk08ram3-ptree-0.0.0"
     },
     "pname": "ptree",
     "system": "x86_64-linux",
@@ -66,7 +45,7 @@
   "source": {
     "locked": {
       "lastModified": 1663698361,
-      "narHash": "sha256-caNdxiSx+YQxNQdO4M4WYnKyB5qZ2cLwzrqyU3EtSM0=",
+      "narHash": "sha256-obZV3n06Q3DneUNppb2AkqT/bsB4VteoR1iz/vXX+rg=",
       "type": "git",
       "url": "file:///home/brantley/src/ptree"
     },
