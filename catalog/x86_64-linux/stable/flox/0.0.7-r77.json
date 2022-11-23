@@ -3,12 +3,12 @@
     "storePaths": [
       "/nix/store/r9j9lhc2qncp8pscwliz74na39d0nrxq-flox-0.0.7-r77"
     ],
+    "active": true,
     "attrPath": [
       "packages",
       "x86_64-linux",
       "flox"
     ],
-    "active": true,
     "url": "git+ssh://git@github.com/flox/flox-internal.git?rev=ac0a218263fc345d560b46d7be8ecd72766f9dd1"
   },
   "cache": [
@@ -19,8 +19,11 @@
         {
           "valid": true,
           "path": "/nix/store/r9j9lhc2qncp8pscwliz74na39d0nrxq-flox-0.0.7-r77",
+          "deriver": "/nix/store/myhb1i0rp8smjbrfhj0aql640jvjakkn-flox-0.0.7-r77.drv",
           "narHash": "sha256-UjwFEEmO0HP0YAiZgZZp5p5B4WsDwAshYsEDuxVNGWk=",
-          "url": "nar/0ihid0192n8s53kq2qr9bfc51w13bsmj1hy3vmm5zccigah315ja.nar.xz",
+          "downloadHash": "sha256-SpYwoHqRsV9q3cPDIKteI/BQmFspY4HnKBpZkQJoEUY=",
+          "downloadSize": 53204,
+          "narSize": 226944,
           "references": [
             "/nix/store/15az6zjph7g5s65rr20v6jra4r39pknx-diffutils-3.8",
             "/nix/store/28r0y1y9mn761hkjl225mw2zkryd9qa6-gnused-4.8",
@@ -50,10 +53,7 @@
             "/nix/store/rf9qwdagmlfr9mwlg348gyqz2b0pa03d-nix-2.11.0",
             "/nix/store/yhnk8nnaxpwp1imm48kkxw8v7v868s54-getent-glibc-2.35-163"
           ],
-          "downloadHash": "sha256-SpYwoHqRsV9q3cPDIKteI/BQmFspY4HnKBpZkQJoEUY=",
-          "narSize": 226944,
-          "downloadSize": 53204,
-          "deriver": "/nix/store/myhb1i0rp8smjbrfhj0aql640jvjakkn-flox-0.0.7-r77.drv"
+          "url": "nar/0ihid0192n8s53kq2qr9bfc51w13bsmj1hy3vmm5zccigah315ja.nar.xz"
         }
       ]
     }
