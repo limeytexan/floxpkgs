@@ -15,9 +15,9 @@
       "flox"
     ],
     "storePaths": [
-      "/nix/store/27caziiw5lqrqnrsm1kq6kybqma8gfwb-flox-0.0.7-rdirty"
+      "/nix/store/amxgcrg1b6jldymbg92cl8zl85cmm16g-flox-0.0.7-rdirty"
     ],
-    "url": "git+ssh://git@github.com/flox/flox-internal.git?rev=143ccb739015571f8a0d5138b48317ffbfac62fd"
+    "url": "git+ssh://git@github.com/flox/floxpkgs.git?rev=143ccb739015571f8a0d5138b48317ffbfac62fd"
   },
   "eval": {
     "attrPath": [
@@ -25,7 +25,7 @@
       "x86_64-linux",
       "flox"
     ],
-    "drvPath": "/nix/store/p8hyc5i0pfrzpmbfsjjd5wz5fd6d2vl1-flox-0.0.7-rdirty.drv",
+    "drvPath": "/nix/store/s6zyxq21r1mg4x6agmpcig6xqk4swgf8-flox-0.0.7-rdirty.drv",
     "meta": {
       "available": true,
       "broken": false,
@@ -34,7 +34,7 @@
       "outputsToInstall": [
         "out"
       ],
-      "position": "/nix/store/n0j1man3q0kwqypvdvrl8yri49jm5j9p-source/pkgs/flox/default.nix:97",
+      "position": "/nix/store/c917x9hmc7hva02la7jci8cz1asb9mch-source/pkgs/flox/default.nix:97",
       "unfree": false,
       "unsupported": false
     },
@@ -43,7 +43,7 @@
       "flox"
     ],
     "outputs": {
-      "out": "/nix/store/27caziiw5lqrqnrsm1kq6kybqma8gfwb-flox-0.0.7-rdirty"
+      "out": "/nix/store/amxgcrg1b6jldymbg92cl8zl85cmm16g-flox-0.0.7-rdirty"
     },
     "pname": "flox",
     "stability": "stable",
@@ -57,17 +57,17 @@
       "rev": "143ccb739015571f8a0d5138b48317ffbfac62fd",
       "revCount": 67,
       "type": "git",
-      "url": "ssh://git@github.com/flox/flox-internal.git"
+      "url": "ssh://git@github.com/flox/floxpkgs.git"
     },
     "original": {
       "rev": "143ccb739015571f8a0d5138b48317ffbfac62fd",
       "type": "git",
-      "url": "ssh://git@github.com/flox/flox-internal.git"
+      "url": "ssh://git@github.com/flox/floxpkgs.git"
     },
     "remote": {
       "rev": "143ccb739015571f8a0d5138b48317ffbfac62fd",
       "type": "git",
-      "url": "ssh://git@github.com/flox/flox-internal.git"
+      "url": "ssh://git@github.com/flox/floxpkgs.git"
     }
   }
 }
