@@ -1,0 +1,67 @@
+{
+  "build": {},
+  "element": {
+    "active": true,
+    "attrPath": [
+      "packages",
+      "aarch64-darwin",
+      "tracelinks"
+    ],
+    "originalUrl": null,
+    "storePaths": [
+      "/nix/store/vrxj1z7z38cgn2vnlrbgkw3jqx6ik5wn-tracelinks-1.0.0-r6"
+    ],
+    "url": "git+ssh://git@github.com/flox/tracelinks.git?rev=ea385051604f097a10063fa411559c5c47f37cb9"
+  },
+  "eval": {
+    "attrPath": [
+      "packages",
+      "aarch64-darwin",
+      "tracelinks"
+    ],
+    "drvPath": "/nix/store/fgm2hjyj3akif4g55y2m9x3b4921pizv-tracelinks-1.0.0-r6.drv",
+    "meta": {
+      "available": true,
+      "broken": false,
+      "insecure": false,
+      "name": "tracelinks-1.0.0-r6",
+      "outputsToInstall": [
+        "out"
+      ],
+      "position": "/nix/store/f4gwb69n5b6vgnshj0xs797z9jqp6lbn-source/pkgs/tracelinks/default.nix:4",
+      "unfree": false,
+      "unsupported": false
+    },
+    "name": "tracelinks-1.0.0-r6",
+    "namespace": [
+      "tracelinks"
+    ],
+    "outputs": {
+      "out": "/nix/store/vrxj1z7z38cgn2vnlrbgkw3jqx6ik5wn-tracelinks-1.0.0-r6"
+    },
+    "pname": "tracelinks",
+    "system": "aarch64-darwin",
+    "version": "1.0.0-r6",
+    "stability": "stable"
+  },
+  "source": {
+    "locked": {
+      "lastModified": 1669460807,
+      "narHash": "sha256-LkPQb2+duqRpqjgkqYdGOdHl9LFhxM0wVOF3jDDDxbE=",
+      "ref": "refs/heads/main",
+      "rev": "ea385051604f097a10063fa411559c5c47f37cb9",
+      "revCount": 6,
+      "type": "git",
+      "url": "file:///Users/brantley/src/tracelinks"
+    },
+    "original": {
+      "type": "git",
+      "url": "file:///Users/brantley/src/tracelinks"
+    },
+    "remote": {
+      "rev": "ea385051604f097a10063fa411559c5c47f37cb9",
+      "type": "git",
+      "url": "ssh://git@github.com/flox/tracelinks.git"
+    }
+  }
+}
