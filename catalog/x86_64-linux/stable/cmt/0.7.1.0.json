@@ -1,0 +1,151 @@
+{
+  "build": {},
+  "element": {
+    "active": true,
+    "attrPath": [
+      "packages",
+      "x86_64-linux",
+      "cmt"
+    ],
+    "originalUrl": null,
+    "storePaths": [
+      "/nix/store/181valy7ynh246mr33zg01ykswimh26c-cmt-0.7.1.0"
+    ],
+    "url": "git+https://github.com/limeytexan/cmt.git?rev=c44eae60e390eb9a690d0b6a599e7b4392e4586b"
+  },
+  "eval": {
+    "attrPath": [
+      "packages",
+      "x86_64-linux",
+      "cmt"
+    ],
+    "drvPath": "/nix/store/wg120wav0yibf0cq69a7rn7f880fg88i-cmt-0.7.1.0.drv",
+    "meta": {
+      "available": true,
+      "broken": false,
+      "description": "Write consistent git commit messages",
+      "homepage": "https://github.com/smallhadroncollider/cmt#readme",
+      "insecure": false,
+      "license": "BSD-3-Clause",
+      "mainProgram": "cmt",
+      "maintainers": [
+        {
+          "email": "steve+nixpkgs@jonescape.com",
+          "github": "sjfloat",
+          "githubId": 216167,
+          "name": "Steve Jones"
+        }
+      ],
+      "name": "cmt-0.7.1.0",
+      "outputsToInstall": [
+        "out"
+      ],
+      "platforms": [
+        "i686-cygwin",
+        "x86_64-cygwin",
+        "x86_64-darwin",
+        "i686-darwin",
+        "aarch64-darwin",
+        "armv7a-darwin",
+        "i686-freebsd",
+        "x86_64-freebsd",
+        "aarch64-genode",
+        "i686-genode",
+        "x86_64-genode",
+        "x86_64-solaris",
+        "js-ghcjs",
+        "aarch64-linux",
+        "armv5tel-linux",
+        "armv6l-linux",
+        "armv7a-linux",
+        "armv7l-linux",
+        "i686-linux",
+        "m68k-linux",
+        "microblaze-linux",
+        "microblazeel-linux",
+        "mipsel-linux",
+        "mips64el-linux",
+        "powerpc64-linux",
+        "powerpc64le-linux",
+        "riscv32-linux",
+        "riscv64-linux",
+        "s390-linux",
+        "s390x-linux",
+        "x86_64-linux",
+        "mmix-mmixware",
+        "aarch64-netbsd",
+        "armv6l-netbsd",
+        "armv7a-netbsd",
+        "armv7l-netbsd",
+        "i686-netbsd",
+        "m68k-netbsd",
+        "mipsel-netbsd",
+        "powerpc-netbsd",
+        "riscv32-netbsd",
+        "riscv64-netbsd",
+        "x86_64-netbsd",
+        "aarch64_be-none",
+        "aarch64-none",
+        "arm-none",
+        "armv6l-none",
+        "avr-none",
+        "i686-none",
+        "microblaze-none",
+        "microblazeel-none",
+        "msp430-none",
+        "or1k-none",
+        "m68k-none",
+        "powerpc-none",
+        "powerpcle-none",
+        "riscv32-none",
+        "riscv64-none",
+        "rx-none",
+        "s390-none",
+        "s390x-none",
+        "vc4-none",
+        "x86_64-none",
+        "i686-openbsd",
+        "x86_64-openbsd",
+        "x86_64-redox",
+        "wasm64-wasi",
+        "wasm32-wasi",
+        "x86_64-windows",
+        "i686-windows"
+      ],
+      "position": "/nix/store/c8z4mbz32r18qkl1ps6nv6gxd9ki8b7d-source/pkgs/cmt/default.nix:4",
+      "unfree": false,
+      "unsupported": false
+    },
+    "name": "cmt-0.7.1.0",
+    "namespace": [
+      "cmt"
+    ],
+    "outputs": {
+      "out": "/nix/store/181valy7ynh246mr33zg01ykswimh26c-cmt-0.7.1.0"
+    },
+    "pname": "cmt",
+    "stability": "stable",
+    "system": "x86_64-linux",
+    "version": "0.7.1.0"
+  },
+  "source": {
+    "locked": {
+      "lastModified": 1669984814,
+      "narHash": "sha256-AuCn4KQd1rRZXnAO+FtO2DNt8lglx3ZTyrqp4dQ2fuU=",
+      "rev": "c44eae60e390eb9a690d0b6a599e7b4392e4586b",
+      "revCount": 120,
+      "type": "git",
+      "url": "https://github.com/limeytexan/cmt.git"
+    },
+    "original": {
+      "rev": "c44eae60e390eb9a690d0b6a599e7b4392e4586b",
+      "type": "git",
+      "url": "https://github.com/limeytexan/cmt.git"
+    },
+    "remote": {
+      "rev": "c44eae60e390eb9a690d0b6a599e7b4392e4586b",
+      "type": "git",
+      "url": "https://github.com/limeytexan/cmt.git"
+    }
+  }
+}
