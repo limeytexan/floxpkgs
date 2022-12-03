@@ -1,0 +1,67 @@
+{
+  "build": {},
+  "element": {
+    "active": true,
+    "attrPath": [
+      "packages",
+      "x86_64-linux",
+      "ptree"
+    ],
+    "originalUrl": null,
+    "storePaths": [
+      "/nix/store/vj8ynmbz43rh7yj98drb2w8ssyxvv6fv-ptree-0.0.0"
+    ],
+    "url": "git+https://github.com/limeytexan/ptree.git?rev=1315a232990d9fac8d37833b2757f898559d3f34"
+  },
+  "eval": {
+    "attrPath": [
+      "packages",
+      "x86_64-linux",
+      "ptree"
+    ],
+    "drvPath": "/nix/store/b72xhd10xxsqwp2dhivbbq6ln6x7p08x-ptree-0.0.0.drv",
+    "meta": {
+      "available": true,
+      "broken": false,
+      "insecure": false,
+      "name": "ptree-0.0.0",
+      "outputsToInstall": [
+        "out"
+      ],
+      "position": "/nix/store/lhf3w35f7k29kldrfz9rbscsbmpzqqak-source/pkgs/ptree/default.nix:5",
+      "unfree": false,
+      "unsupported": false
+    },
+    "name": "ptree-0.0.0",
+    "namespace": [
+      "ptree"
+    ],
+    "outputs": {
+      "out": "/nix/store/vj8ynmbz43rh7yj98drb2w8ssyxvv6fv-ptree-0.0.0"
+    },
+    "pname": "ptree",
+    "stability": "stable",
+    "system": "x86_64-linux",
+    "version": "0.0.0"
+  },
+  "source": {
+    "locked": {
+      "lastModified": 1670086780,
+      "narHash": "sha256-ZjlDo78S9duA5kNEcZgWGbUbHPKMSROBTSGYWNw0vDE=",
+      "rev": "1315a232990d9fac8d37833b2757f898559d3f34",
+      "revCount": 7,
+      "type": "git",
+      "url": "https://github.com/limeytexan/ptree.git"
+    },
+    "original": {
+      "rev": "1315a232990d9fac8d37833b2757f898559d3f34",
+      "type": "git",
+      "url": "https://github.com/limeytexan/ptree.git"
+    },
+    "remote": {
+      "rev": "1315a232990d9fac8d37833b2757f898559d3f34",
+      "type": "git",
+      "url": "https://github.com/limeytexan/ptree.git"
+    }
+  }
+}
