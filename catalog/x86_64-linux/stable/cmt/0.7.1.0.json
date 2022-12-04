@@ -11,7 +11,7 @@
     "storePaths": [
       "/nix/store/181valy7ynh246mr33zg01ykswimh26c-cmt-0.7.1.0"
     ],
-    "url": "git+https://github.com/limeytexan/cmt.git?rev=c44eae60e390eb9a690d0b6a599e7b4392e4586b"
+    "url": "git+ssh://git@github.com/limeytexan/cmt.git?rev=c44eae60e390eb9a690d0b6a599e7b4392e4586b"
   },
   "eval": {
     "attrPath": [
@@ -135,17 +135,17 @@
       "rev": "c44eae60e390eb9a690d0b6a599e7b4392e4586b",
       "revCount": 120,
       "type": "git",
-      "url": "https://github.com/limeytexan/cmt.git"
+      "url": "ssh://git@github.com/limeytexan/cmt.git"
     },
     "original": {
       "rev": "c44eae60e390eb9a690d0b6a599e7b4392e4586b",
       "type": "git",
-      "url": "https://github.com/limeytexan/cmt.git"
+      "url": "ssh://git@github.com/limeytexan/cmt.git"
     },
     "remote": {
       "rev": "c44eae60e390eb9a690d0b6a599e7b4392e4586b",
       "type": "git",
-      "url": "https://github.com/limeytexan/cmt.git"
+      "url": "ssh://git@github.com/limeytexan/cmt.git"
     }
   }
 }
