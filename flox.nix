@@ -7,15 +7,14 @@
 # Define package set structure
 {
 
-  config.owner = "limeytexan"; # < change this value to match your namespace
-
   # Template Configuration:
   # DO NOT EDIT
   config.extraPlugins = [
       (
-        inputs.flox-extras.plugins.catalog {
+        inputs.floxpkgs.plugins.catalog {
           catalogDirectory = self.outPath + "/catalog";
         }
       )
+      (inputs.floxpkgs.capacitor.plugins.allLocalResources {})
     ];
 }
