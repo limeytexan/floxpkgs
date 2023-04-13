@@ -1,5 +1,5 @@
 {
-  "build": {},
+  "build": [],
   "element": {
     "active": true,
     "attrPath": [
@@ -9,9 +9,9 @@
     ],
     "originalUrl": null,
     "storePaths": [
-      "/nix/store/vj8ynmbz43rh7yj98drb2w8ssyxvv6fv-ptree-0.0.0"
+      "/nix/store/gxdzrhk697xs864walvavrzl7ngwq9r5-ptree-0.0.0"
     ],
-    "url": "git+https://github.com/limeytexan/ptree.git?rev=1315a232990d9fac8d37833b2757f898559d3f34"
+    "url": "git+ssh://git@github.com/limeytexan/floxpkgs?rev=5157559467de7fc2f973f0a769c99d29355713ba"
   },
   "eval": {
     "attrPath": [
@@ -19,7 +19,7 @@
       "x86_64-linux",
       "ptree"
     ],
-    "drvPath": "/nix/store/b72xhd10xxsqwp2dhivbbq6ln6x7p08x-ptree-0.0.0.drv",
+    "drvPath": "/nix/store/kpba3b6jwbyhmvd3a5jkbaq0w18q0rar-ptree-0.0.0.drv",
     "meta": {
       "available": true,
       "broken": false,
@@ -28,7 +28,7 @@
       "outputsToInstall": [
         "out"
       ],
-      "position": "/nix/store/lhf3w35f7k29kldrfz9rbscsbmpzqqak-source/pkgs/ptree/default.nix:5",
+      "position": "/nix/store/v3yv4x3wbfy3wjv9j98k9z4y2is4jj9q-source/pkgs/ptree/default.nix:5",
       "unfree": false,
       "unsupported": false
     },
@@ -37,7 +37,7 @@
       "ptree"
     ],
     "outputs": {
-      "out": "/nix/store/vj8ynmbz43rh7yj98drb2w8ssyxvv6fv-ptree-0.0.0"
+      "out": "/nix/store/gxdzrhk697xs864walvavrzl7ngwq9r5-ptree-0.0.0"
     },
     "pname": "ptree",
     "stability": "stable",
@@ -46,22 +46,23 @@
   },
   "source": {
     "locked": {
-      "lastModified": 1670086780,
-      "narHash": "sha256-ZjlDo78S9duA5kNEcZgWGbUbHPKMSROBTSGYWNw0vDE=",
-      "rev": "1315a232990d9fac8d37833b2757f898559d3f34",
-      "revCount": 7,
+      "lastModified": 1681421540,
+      "narHash": "sha256-1yjXrCw5Q/EvJV0dtUrG6zgj1BfFoBzvEfF43QFbalk=",
+      "rev": "5157559467de7fc2f973f0a769c99d29355713ba",
+      "revCount": 76,
       "type": "git",
-      "url": "https://github.com/limeytexan/ptree.git"
+      "url": "ssh://git@github.com/limeytexan/floxpkgs"
     },
     "original": {
-      "rev": "1315a232990d9fac8d37833b2757f898559d3f34",
+      "rev": "5157559467de7fc2f973f0a769c99d29355713ba",
       "type": "git",
-      "url": "https://github.com/limeytexan/ptree.git"
+      "url": "ssh://git@github.com/limeytexan/floxpkgs"
     },
     "remote": {
-      "rev": "1315a232990d9fac8d37833b2757f898559d3f34",
+      "rev": "5157559467de7fc2f973f0a769c99d29355713ba",
       "type": "git",
-      "url": "https://github.com/limeytexan/ptree.git"
+      "url": "ssh://git@github.com/limeytexan/floxpkgs"
     }
-  }
+  },
+  "version": 1
 }
